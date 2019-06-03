@@ -1,2 +1,2 @@
 # rocketexchange-releases
-Rocket Exchange Desktop application releases for Mac, Windows, Linux
+[Rocket Exchange](https://rocket.exchange) Desktop application releases for Mac, Windows, Linux
